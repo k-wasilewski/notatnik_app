@@ -4,3 +4,6 @@
 [submodule "notatnik_app_fe"]
 	path = notatnik_app_fe
 	url = https://github.com/k-wasilewski/notatnik_app_fe
+[submodule "notatnik_app_fe_static"]
+	path = notatnik_app_fe_static
+	url = https://github.com/k-wasilewski/notatnik_app_fe_static
