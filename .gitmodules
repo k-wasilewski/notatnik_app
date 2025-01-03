@@ -1,0 +1,3 @@
+[submodule "notatnik_app_be"]
+	path = notatnik_app_be
+	url = https://github.com/k-wasilewski/notatnik_app_be
